@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "221865872871",
+    "project_id": "portal-1b154"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:221865872871:android:33eaafdfc9f687ba",
+        "android_client_info": {
+          "package_name": "com.pejko.portal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDA7TX9A72BySQW-Mv7Npb24twoIk6mY58"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
