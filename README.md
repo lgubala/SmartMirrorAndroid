@@ -2,4 +2,4 @@
 
 My implementation of smartMirror concept with android app and php backend
 
-![alt text](https://raw.githubusercontent.com/lgubala/SmartMirrorAndroid/master/15991370_10210556688747796_2106803864_o.jpg)
+![alt text](https://drive.google.com/open?id=0B8C4x_R5xK-uVWx3ZzhYQ1pYZEE)
